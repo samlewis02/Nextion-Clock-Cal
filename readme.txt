@@ -6,7 +6,9 @@ Get time from NTP server.
 
 Get calendar from Google calendar using Google script (requires API key)
 
-Get currency conversion using fixer.io (requires API ey)
+Get currency conversion using fixer.io (requires API key)
+
+Built on PlatformIO for Wemos D1 mini
 
 
 
